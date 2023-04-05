@@ -1,0 +1,481 @@
+.fcoman-div-etq-search{
+    width:100%;
+    height: 748px;
+    background-color: aquamarine;
+    display:flex;
+}
+.ETQ-div{
+    cursor: pointer;
+    display:flex;
+    background-image: linear-gradient(rgb(0,0,0,0),rgb(0,0,0,0)),url(images/ETQ-FitpicsHQ-0855-26-04-22-Packing-Boxes_crob_LR_10_9924ba79-f475-4941-87cd-27f409357935_1200x.webp);
+    width: 1239px;
+    height: 748px;
+    background-color: bisque;
+
+}
+.search-div{
+    display: flex;
+   
+    width:409px ;
+    background-color:#fff;
+    height: 100px;
+}
+body{
+    margin:0%;
+}
+.etq-h{
+    cursor: pointer;
+    font-size: large;
+    font-family: Graphik,sans-serif;
+    color: #fff;
+    padding-left: 43px;
+    font-size: 27px;
+    padding-top: 10px;
+    letter-spacing: 9px;
+
+}
+.heder-p{
+    color: #fff;
+    padding-left: 27px;
+    padding-top: 23px;
+    font-family: Graphik,sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+
+.search-p1{
+    cursor: pointer;
+    padding-left: 105px;
+    padding-top: 23px;
+    font-family: Graphik,sans-serif;
+    color: #000;
+    font-size: 14px;
+
+
+}
+.search-b{
+    border-radius: 20px;
+    width: 27px;
+    height: 26px;
+    margin-top: 31px;
+    margin-left: 31px;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    cursor: pointer;
+}
+.search-p{
+    cursor: pointer;
+    padding-left: 24px;
+    padding-top: 23px;
+    font-family: Graphik,sans-serif;
+    color: #000;
+    font-size: 14px;
+}
+.inner-div-p{
+    width: 409px;
+    height: 648px;
+    background-color:#fff;
+}
+.total-search-div{
+    width:30%;
+    height: 748px;
+    background-color: chartreuse;
+}
+.ls-01{
+    cursor: pointer;
+    margin-top: 0%;
+    margin-left: 34px;
+    padding-top:  188px;
+
+    font-family: Graphik,sans-serif;
+    color: #000;
+    font-weight: 500;
+}
+.out-now-h{
+    cursor: pointer;
+    font-family: Graphik,sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    padding-left: 33px;
+}
+
+.what-we-re-p{
+    cursor: pointer;
+    padding-left: 34px;
+    font-size: 13px;
+    font-family: Graphik,sans-serif;
+    line-height: 9px;
+    letter-spacing: 1px;
+    color: #000;
+
+}
+.shop-now-b{
+    cursor: pointer;
+    margin-left: 32px;
+    margin-top: 13px;
+    font-family: Graphik,sans-serif;
+    border-bottom: 1px solid black;
+    width: 77px;
+    background-color: #fff;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 13px;
+    
+
+}
+.modular-how-desingned-main-div{
+    cursor: pointer;
+    display:flex;
+    width: 100%;
+    height: 400px;
+    background-color:#fff;
+}
+.modu-div{
+    display:flex;
+    width: 506px;
+    height: 400px;
+    background-color:#fff;
+}
+
+
+
+.how-div{
+    display:flex;
+    width: 506px;
+    height: 400px;
+    background-color:#fff;
+}
+.desi-div{
+    display:flex;
+    width: 507px;
+    height: 400px;
+    background-color:#fff;
+
+
+}
+.inner-div{
+    width: 213px;
+    height: 297px;
+  
+    margin-top: 73px;
+    margin-left: 40px;
+
+}
+.ineer-p-1{
+    cursor: pointer;
+    padding-top: 167px;
+    padding-left: 31px;
+    font-family: Graphik,sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color:#000;
+}
+.inner-p-2{
+    cursor: pointer;
+    padding-left: 31px;
+    font-family: Graphik,sans-serif;
+    font-size: 13px;
+    color:#000;
+
+
+}
+.button-read-story{
+    cursor: pointer;
+    margin-left: 30px;
+    border: none;
+   
+    border-bottom: solid 1px black;
+    font-size: 12px;
+    background-color: #fff;
+
+
+}
+.inner-p-div{
+    width: 253px;
+    height: 400px;
+    background-color:#fff;
+
+}
+.img-inner-div{
+    cursor: pointer;
+    width: 213px;
+    height: 297px;
+
+}
+.our-styles-div{
+    width: 100%;
+    height: 116px;
+    background-color:#fff;
+
+}
+.our-styles-p{
+    font-family: Graphik,sans-serif;
+    font-size: 29px;
+    padding-left: 42px;
+    padding-top: 49px;
+
+}
+.shoe-img-div-main{
+    display: flex;
+    width: 100%;
+    height: 525px;
+    background-color:#fff;
+
+}
+.shoe-img-div{
+    width: 460px;
+    height: 525px;
+   
+    margin-left: 36px;
+
+}
+.shoe-img{
+    width: 460px;
+    height: 525px;
+
+}
+.shoe-name-price-main-div{
+    display:flex;
+    width: 100%;
+    height: 100px;
+    background-color:#fff;
+}
+.shoe-name{
+    font-family: Graphik,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #000;
+
+}
+.del-price{
+    font-family: Graphik,sans-serif;
+    font-size: 13px;
+    color:#000;
+
+}
+.price{
+    font-family: Graphik,sans-serif;
+    font-size: 14px;
+
+
+}
+.inner-price-name-shoe-div{
+    width: 460px;
+    height: 100px;
+    background-color:#fff;
+    margin-left: 36px;
+}
+.etq-gift-discover-main-div{
+    width: 100%;
+    height: 500px;
+    background-color:#fff;
+    display:flex;
+}
+.gift-div{
+    width: 705px;
+    height: 500px;
+   
+    margin-left: 40px;
+
+}
+.gift-img{
+    width: 705px;
+    height: 500px;
+}
+.etq-gift-new-main-div{
+    width: 100%;
+    height: 100px;
+    background-color:#fff;
+    display: flex;
+}
+.etq-div{
+    width: 200px;
+    height: 100px;
+    background-color:#fff;
+    margin-left: 40px;
+}
+.new-in-div{
+    width: 200px;
+    height: 100px;
+    background-color:#fff;
+    margin-left: 545px;
+}
+.etq-new-p{
+    font-family: Graphik,sans-serif;
+
+}
+.etq-new-psmall{
+    font-family: Graphik,sans-serif;
+   
+    font-size: 14px;
+    margin-top: -7px;
+
+}
+.about-address-contact-div-main{
+    width: 100%;
+    height: 349px;
+    background-color:#fff;
+    display:flex;
+}
+.about-div{
+    width: 429px;
+    height: 181px;
+    background-color:#fff;
+    margin-left: 38px;
+    margin-top: 119px;
+    font-family: Graphik,sans-serif;
+}
+.about-h{
+    color: #000;
+    font-size: 13px;
+    
+}
+.discrip-p{
+    font-size: 14px;
+   
+    margin-bottom:0px;
+  
+
+}
+.button-foter-about{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 9px;
+   background-color: #fff;
+
+}
+.address-div{
+    width: 141px;
+    height: 181px;
+    background-color:#fff;
+    margin-left: 38px;
+    margin-top: 119px;
+    font-family: Graphik,sans-serif;
+
+
+}
+.contact-div{
+    width: 139px;
+    height: 181px;
+    background-color:#fff;
+    margin-left: 112px;
+    margin-top: 119px;
+    font-family: Graphik,sans-serif;
+
+
+
+}
+.info-div{
+    width: 120px;
+    height: 230px;
+    background-color:#fff;
+    margin-left: 112px;
+    margin-top: 119px;
+    font-family: Graphik,sans-serif;
+
+}
+.follow-div{
+    width: 120px;
+    height: 181px;
+    background-color:#fff;
+    margin-left: 112px;
+    margin-top: 119px;
+    font-family: Graphik,sans-serif;
+    
+}
+.laste-foter-bottem-main-div{
+    width: 100%;
+    height: 70px;
+    background-color:#fff;
+    display:flex;
+
+}
+.Join-our-icons-div{
+    display: flex;
+    width: 50%;
+    height: 70px;
+    background-color:#fff;
+    margin-left: 25px;
+
+
+}
+.foter-laste-button-hr{
+    width: 436px;
+    height: 44px;
+    border: none;
+    border-bottom: 1px solid  #929292;
+    margin-left: 30px;
+    background-color: #fff;
+
+}
+.Join-our-newsletter-p{
+    font-family: Graphik,sans-serif;
+    font-size: 13px;
+    padding-top: 15px;
+
+}
+.submit-b{
+    
+    border: none;
+    border-bottom: 1px solid black;
+    width: 54px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-top: 10px;
+    font-family: Graphik,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #fff;
+
+}
+.icons-img{
+    width: 369px;
+    height: 30px;
+    padding-top: 33px;
+
+}
+.terms-and-condi-p{
+    font-size: 10px;
+    font-family: Graphik,sans-serif;
+    color: black;
+    padding-top: 31px;
+    padding-left: 116px;
+
+}
+.span-p{
+    padding-left: 16px;
+}
+.this-site-div{
+    width: 100%;
+    height: 40px;
+    background-color:#fff;
+}
+.this-site-p{
+    color: #929292;
+    font-size: 10px;
+    font-family: Graphik,sans-serif;
+    padding-left: 24px;
+
+}
+.selection-div{
+    width: 100%;
+    height: 71px;
+    background-color:#fff;
+
+}
+#selection-bar{
+    width: 210px;
+    height: 33px;
+    margin-left: 27px;
+    border: none;
+    background-color: #f4f4f4;
+
+
+}
+
+
